@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schanp
 - 👀 I’m interested in math, music, football, food and languages. 
-- 🌱 I’m currently learning data acquisition.
+- 🌱 I’m currently learning data clustering algorithms.
 - 💞️ I’m looking to collaborate on implementing algorithms, open source apps related to my above interest.
 <!--- 📫 How to reach me ...
 
